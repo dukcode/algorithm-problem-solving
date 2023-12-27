@@ -15,7 +15,6 @@ public class Picnic {
   private static BufferedReader br;
   private static BufferedWriter bw;
   private static StringTokenizer st;
-
   private static int c;
   private static int n;
   private static int m;
